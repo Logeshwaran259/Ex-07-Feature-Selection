@@ -19,8 +19,8 @@ Save the data to the file
 
 # CODE
 ```python
-#Developed by :Shakthi kumar S
-#Register number :212222110043
+#Developed by :logeshwaran s
+#Register number :212220040081
 
 import pandas as pd
 import numpy as np
